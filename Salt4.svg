@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 792 612" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M419.045 432.342C394.604 446.505 364.491 446.505 340.049 432.342L275.045 394.674C250.604 380.511 235.547 354.336 235.547 326.01L235.547 250.674C235.547 222.348 250.604 196.173 275.045 182.01L340.049 144.342C364.491 130.179 394.604 130.179 419.045 144.342L484.049 182.01C508.491 196.173 523.547 222.348 523.547 250.674L523.547 326.01C523.547 354.336 508.491 380.511 484.049 394.674L419.045 432.342Z" fill="none" opacity="1" stroke="#000205" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Polygon 1"/>
+</g>
+<g id="Layer-2" vectornator:layerName="Layer 2">
+<path d="M311.702 288.342C311.702 265.709 322.784 245.665 339.818 233.339C350.985 225.259 364.71 220.496 379.547 220.496C417.017 220.496 447.393 250.872 447.393 288.342C447.393 325.812 417.017 356.187 379.547 356.187C342.077 356.187 311.702 325.812 311.702 288.342Z" fill="none" opacity="1" stroke="#000205" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Oval 1"/>
+<path d="M352.065 260.05L379.356 287.262L407.065 259.636M379.485 345.001L352.03 316.671L352.03 260.012L379.485 231.683L406.941 260.012L406.941 316.671L379.485 345.001ZM379.217 285.942C379.217 285.942 378.811 343.515 378.901 343.675" fill="none" opacity="1" stroke="#000205" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Curve 1"/>
+</g>
+<g id="Layer-3" vectornator:layerName="Layer 3">
+<path d="M267.3 288.342C267.3 226.157 317.71 175.746 379.895 175.746C442.08 175.746 492.491 226.157 492.491 288.342C492.491 350.527 442.08 400.938 379.895 400.938C317.71 400.938 267.3 350.527 267.3 288.342Z" fill="none" opacity="1" stroke="#000205" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Oval 1"/>
+</g>
+</svg>
